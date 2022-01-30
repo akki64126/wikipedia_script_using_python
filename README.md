@@ -4,4 +4,5 @@
     pip3 install wikipedia-api
 3) Then run the python file using the shell command
     python3 wiki.py
+
 Make sure both the files wiki.py and links.py are in same folder
